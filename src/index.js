@@ -4,12 +4,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import { ProductProvider} from './components/Context';
 
 ReactDOM.render(
-  <Router>
-  
-    <App />
-  </Router>,
+  <ProductProvider>
+   <Router>
+   <App />
+    </Router>
+  </ProductProvider>,
   document.getElementById('root')
 );
 
