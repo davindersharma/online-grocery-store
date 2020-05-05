@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { storeProducts, detailProduct } from "../data";
+import { storeProducts} from "../data";
 
 // import Product from './Product';
 
@@ -7,7 +7,7 @@ const ProductContext = React.createContext();
 
 function ProductProvider(props) {
     const [products] = useState(storeProducts);
-  const [detail] = useState(detailProduct);
+  // const [detail] = useState(detailProduct);
 // handleDetail = () => {
     
 // }

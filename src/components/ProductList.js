@@ -1,15 +1,14 @@
 import React,{useState} from "react";
 import Product from "./Product";
 import Title from "./Title";
-import { storeProducts, detailProduct } from "../data";
-
+// import { storeProducts} from "../data";
 
 import {ProductConsumer} from "./Context"
 
 
 
 function ProductList() {
-  const [products] = useState(storeProducts);
+  // const []= useState(storeProducts);
 
   
 
@@ -25,7 +24,7 @@ function ProductList() {
             <ProductConsumer>
               {value => {
                 return value.products.map(product => {
-                  return <Product product={product}/>
+                  return <Product key={product.id} product={product}/>
                 })
               }}
              
