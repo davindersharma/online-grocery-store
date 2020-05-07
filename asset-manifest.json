@@ -1,26 +1,34 @@
 {
   "files": {
     "main.css": "/online-grocery-store/static/css/main.0f9871ad.chunk.css",
-    "main.js": "/online-grocery-store/static/js/main.6a6a7c1f.chunk.js",
-    "main.js.map": "/online-grocery-store/static/js/main.6a6a7c1f.chunk.js.map",
+    "main.js": "/online-grocery-store/static/js/main.ea07d58a.chunk.js",
+    "main.js.map": "/online-grocery-store/static/js/main.ea07d58a.chunk.js.map",
     "runtime-main.js": "/online-grocery-store/static/js/runtime-main.cf5d4ed4.js",
     "runtime-main.js.map": "/online-grocery-store/static/js/runtime-main.cf5d4ed4.js.map",
     "static/css/2.049b10f6.chunk.css": "/online-grocery-store/static/css/2.049b10f6.chunk.css",
-    "static/js/2.b930165e.chunk.js": "/online-grocery-store/static/js/2.b930165e.chunk.js",
-    "static/js/2.b930165e.chunk.js.map": "/online-grocery-store/static/js/2.b930165e.chunk.js.map",
+    "static/js/2.5bc8a8ff.chunk.js": "/online-grocery-store/static/js/2.5bc8a8ff.chunk.js",
+    "static/js/2.5bc8a8ff.chunk.js.map": "/online-grocery-store/static/js/2.5bc8a8ff.chunk.js.map",
     "index.html": "/online-grocery-store/index.html",
-    "precache-manifest.a570f1b75171eb02b319b04ee3740972.js": "/online-grocery-store/precache-manifest.a570f1b75171eb02b319b04ee3740972.js",
+    "precache-manifest.775cca9f9d735b80f25a5308f92ebf12.js": "/online-grocery-store/precache-manifest.775cca9f9d735b80f25a5308f92ebf12.js",
     "service-worker.js": "/online-grocery-store/service-worker.js",
     "static/css/2.049b10f6.chunk.css.map": "/online-grocery-store/static/css/2.049b10f6.chunk.css.map",
     "static/css/main.0f9871ad.chunk.css.map": "/online-grocery-store/static/css/main.0f9871ad.chunk.css.map",
-    "static/js/2.b930165e.chunk.js.LICENSE.txt": "/online-grocery-store/static/js/2.b930165e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/online-grocery-store/static/media/logo.9f7e506d.svg"
+    "static/js/2.5bc8a8ff.chunk.js.LICENSE.txt": "/online-grocery-store/static/js/2.5bc8a8ff.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/online-grocery-store/static/media/logo.9f7e506d.svg",
+    "static/media/product-1.png": "/online-grocery-store/static/media/product-1.d63d9eff.png",
+    "static/media/product-2.png": "/online-grocery-store/static/media/product-2.ad7ef891.png",
+    "static/media/product-3.png": "/online-grocery-store/static/media/product-3.d27ec2bc.png",
+    "static/media/product-4.png": "/online-grocery-store/static/media/product-4.d9ed7537.png",
+    "static/media/product-5.png": "/online-grocery-store/static/media/product-5.8f9a1f89.png",
+    "static/media/product-6.png": "/online-grocery-store/static/media/product-6.b49d1b7c.png",
+    "static/media/product-7.png": "/online-grocery-store/static/media/product-7.4c6ab223.png",
+    "static/media/product-8.png": "/online-grocery-store/static/media/product-8.d390282f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cf5d4ed4.js",
     "static/css/2.049b10f6.chunk.css",
-    "static/js/2.b930165e.chunk.js",
+    "static/js/2.5bc8a8ff.chunk.js",
     "static/css/main.0f9871ad.chunk.css",
-    "static/js/main.6a6a7c1f.chunk.js"
+    "static/js/main.ea07d58a.chunk.js"
   ]
 }
