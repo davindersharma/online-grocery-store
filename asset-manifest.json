@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/online-grocery-store/static/css/main.883218d2.chunk.css",
-    "main.js": "/online-grocery-store/static/js/main.f41f430c.chunk.js",
-    "main.js.map": "/online-grocery-store/static/js/main.f41f430c.chunk.js.map",
+    "main.js": "/online-grocery-store/static/js/main.f078e477.chunk.js",
+    "main.js.map": "/online-grocery-store/static/js/main.f078e477.chunk.js.map",
     "runtime-main.js": "/online-grocery-store/static/js/runtime-main.cf5d4ed4.js",
     "runtime-main.js.map": "/online-grocery-store/static/js/runtime-main.cf5d4ed4.js.map",
     "static/css/2.049b10f6.chunk.css": "/online-grocery-store/static/css/2.049b10f6.chunk.css",
-    "static/js/2.e5c9019d.chunk.js": "/online-grocery-store/static/js/2.e5c9019d.chunk.js",
-    "static/js/2.e5c9019d.chunk.js.map": "/online-grocery-store/static/js/2.e5c9019d.chunk.js.map",
+    "static/js/2.934da0f3.chunk.js": "/online-grocery-store/static/js/2.934da0f3.chunk.js",
+    "static/js/2.934da0f3.chunk.js.map": "/online-grocery-store/static/js/2.934da0f3.chunk.js.map",
     "index.html": "/online-grocery-store/index.html",
-    "precache-manifest.6a018c38bd3e257f8ea468965c868d03.js": "/online-grocery-store/precache-manifest.6a018c38bd3e257f8ea468965c868d03.js",
+    "precache-manifest.0237503c2c7d0f41a1d60406f56fb733.js": "/online-grocery-store/precache-manifest.0237503c2c7d0f41a1d60406f56fb733.js",
     "service-worker.js": "/online-grocery-store/service-worker.js",
     "static/css/2.049b10f6.chunk.css.map": "/online-grocery-store/static/css/2.049b10f6.chunk.css.map",
     "static/css/main.883218d2.chunk.css.map": "/online-grocery-store/static/css/main.883218d2.chunk.css.map",
-    "static/js/2.e5c9019d.chunk.js.LICENSE.txt": "/online-grocery-store/static/js/2.e5c9019d.chunk.js.LICENSE.txt",
+    "static/js/2.934da0f3.chunk.js.LICENSE.txt": "/online-grocery-store/static/js/2.934da0f3.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/online-grocery-store/static/media/logo.9f7e506d.svg",
     "static/media/product-1.jpg": "/online-grocery-store/static/media/product-1.dd49588a.jpg",
     "static/media/product-2.jpg": "/online-grocery-store/static/media/product-2.01e5e955.jpg",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.cf5d4ed4.js",
     "static/css/2.049b10f6.chunk.css",
-    "static/js/2.e5c9019d.chunk.js",
+    "static/js/2.934da0f3.chunk.js",
     "static/css/main.883218d2.chunk.css",
-    "static/js/main.f41f430c.chunk.js"
+    "static/js/main.f078e477.chunk.js"
   ]
 }

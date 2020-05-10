@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd410d9ebce571604687619e1a0e4231",
+    "revision": "02919592d1a6e7c73631e32acb54a432",
     "url": "/online-grocery-store/index.html"
   },
   {
-    "revision": "cb728b6ec432ef8272cf",
+    "revision": "c21795f37c93b823df00",
     "url": "/online-grocery-store/static/css/2.049b10f6.chunk.css"
   },
   {
-    "revision": "13e4a8efb5e701cfd787",
+    "revision": "df9b92319f344ec18b64",
     "url": "/online-grocery-store/static/css/main.883218d2.chunk.css"
   },
   {
-    "revision": "cb728b6ec432ef8272cf",
-    "url": "/online-grocery-store/static/js/2.e5c9019d.chunk.js"
+    "revision": "c21795f37c93b823df00",
+    "url": "/online-grocery-store/static/js/2.934da0f3.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/online-grocery-store/static/js/2.e5c9019d.chunk.js.LICENSE.txt"
+    "url": "/online-grocery-store/static/js/2.934da0f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13e4a8efb5e701cfd787",
-    "url": "/online-grocery-store/static/js/main.f41f430c.chunk.js"
+    "revision": "df9b92319f344ec18b64",
+    "url": "/online-grocery-store/static/js/main.f078e477.chunk.js"
   },
   {
     "revision": "6e54bd8a7cda18ebf6b4",
