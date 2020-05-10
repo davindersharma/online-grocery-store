@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/online-grocery-store/static/css/main.0f9871ad.chunk.css",
-    "main.js": "/online-grocery-store/static/js/main.ea07d58a.chunk.js",
-    "main.js.map": "/online-grocery-store/static/js/main.ea07d58a.chunk.js.map",
+    "main.css": "/online-grocery-store/static/css/main.883218d2.chunk.css",
+    "main.js": "/online-grocery-store/static/js/main.d8e4479c.chunk.js",
+    "main.js.map": "/online-grocery-store/static/js/main.d8e4479c.chunk.js.map",
     "runtime-main.js": "/online-grocery-store/static/js/runtime-main.cf5d4ed4.js",
     "runtime-main.js.map": "/online-grocery-store/static/js/runtime-main.cf5d4ed4.js.map",
     "static/css/2.049b10f6.chunk.css": "/online-grocery-store/static/css/2.049b10f6.chunk.css",
-    "static/js/2.5bc8a8ff.chunk.js": "/online-grocery-store/static/js/2.5bc8a8ff.chunk.js",
-    "static/js/2.5bc8a8ff.chunk.js.map": "/online-grocery-store/static/js/2.5bc8a8ff.chunk.js.map",
+    "static/js/2.e5c9019d.chunk.js": "/online-grocery-store/static/js/2.e5c9019d.chunk.js",
+    "static/js/2.e5c9019d.chunk.js.map": "/online-grocery-store/static/js/2.e5c9019d.chunk.js.map",
     "index.html": "/online-grocery-store/index.html",
-    "precache-manifest.775cca9f9d735b80f25a5308f92ebf12.js": "/online-grocery-store/precache-manifest.775cca9f9d735b80f25a5308f92ebf12.js",
+    "precache-manifest.fb39feaf02589f0864197d8184991c2e.js": "/online-grocery-store/precache-manifest.fb39feaf02589f0864197d8184991c2e.js",
     "service-worker.js": "/online-grocery-store/service-worker.js",
     "static/css/2.049b10f6.chunk.css.map": "/online-grocery-store/static/css/2.049b10f6.chunk.css.map",
-    "static/css/main.0f9871ad.chunk.css.map": "/online-grocery-store/static/css/main.0f9871ad.chunk.css.map",
-    "static/js/2.5bc8a8ff.chunk.js.LICENSE.txt": "/online-grocery-store/static/js/2.5bc8a8ff.chunk.js.LICENSE.txt",
+    "static/css/main.883218d2.chunk.css.map": "/online-grocery-store/static/css/main.883218d2.chunk.css.map",
+    "static/js/2.e5c9019d.chunk.js.LICENSE.txt": "/online-grocery-store/static/js/2.e5c9019d.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/online-grocery-store/static/media/logo.9f7e506d.svg",
     "static/media/product-1.png": "/online-grocery-store/static/media/product-1.d63d9eff.png",
     "static/media/product-2.png": "/online-grocery-store/static/media/product-2.ad7ef891.png",
@@ -27,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.cf5d4ed4.js",
     "static/css/2.049b10f6.chunk.css",
-    "static/js/2.5bc8a8ff.chunk.js",
-    "static/css/main.0f9871ad.chunk.css",
-    "static/js/main.ea07d58a.chunk.js"
+    "static/js/2.e5c9019d.chunk.js",
+    "static/css/main.883218d2.chunk.css",
+    "static/js/main.d8e4479c.chunk.js"
   ]
 }
