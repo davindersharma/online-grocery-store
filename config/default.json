@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://davindersharma:davin1234@online-grocery-store-cluster-2wtwr.gcp.mongodb.net/test?retryWrites=true&w=majority"
+}
